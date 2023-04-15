@@ -116,3 +116,10 @@ li button {
   border-radius: 5px;
   cursor: pointer;
 }
+
+label {
+    display: block;
+    font-size: 16px;
+    margin-block-start: 11px;
+    margin-block-end: 11px;
+}
